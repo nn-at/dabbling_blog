@@ -1,0 +1,28 @@
+---
+title: "Second post"
+description: |
+  A short description of the post.
+date: 06-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+## Title
+Here is some more info on this post
+
+### Another title
+and a bit more text
+
+# An even bigger title
+and a bit more text
+

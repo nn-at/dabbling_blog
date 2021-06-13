@@ -1,0 +1,26 @@
+[
+  {
+    "path": "posts/2021-06-13-second-post/",
+    "title": "Second post",
+    "description": "A short description of the post.",
+    "author": [],
+    "date": "2021-06-13",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nTitle\r\nHere is some more info on this post\r\nAnother title\r\nand a bit more text\r\nAn even bigger title\r\nand a bit more text\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-13T11:02:52-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Title for My Blog",
+    "description": "Welcome to our new blog, Title for My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [],
+    "date": "2021-06-13",
+    "categories": [],
+    "contents": "\r\nHere is some text for the blog.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-13T10:47:17-04:00",
+    "input_file": {}
+  }
+]

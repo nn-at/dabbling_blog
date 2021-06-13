@@ -1,0 +1,18 @@
+name: "distill_blog"
+title: "dabbling with R"
+description: |
+  dabblings with R and data
+theme: theme.css
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+    - text: "About"
+      href: about.html
+collections:
+   posts:
+     authors_metadata: false
+output: distill::distill_article

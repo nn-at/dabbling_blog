@@ -1,0 +1,18 @@
+---
+title: "nn-at"
+image: "nn-at.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Good Day! 
+
+Find here some Sunday morning dabblings with data and R.
